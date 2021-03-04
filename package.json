@@ -1,0 +1,22 @@
+{
+  "name": "techchallenge",
+  "version": "1.0.0",
+  "description": "Desafio RD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleiMachado/TechChallenge.git"
+  },
+  "author": "Shirlei Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShirleiMachado/TechChallenge/issues"
+  },
+  "homepage": "https://github.com/ShirleiMachado/TechChallenge#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
